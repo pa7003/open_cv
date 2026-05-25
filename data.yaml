@@ -1,0 +1,11 @@
+path: C:\Users\pssin\.gemini\antigravity\scratch\number_plate_detection\dataset
+train: images/train
+val: images/val
+
+names:
+  0: Bike
+  1: Bus
+  2: Car
+  3: Number plate
+  4: Person
+  5: Truck
